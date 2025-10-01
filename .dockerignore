@@ -1,0 +1,9 @@
+/bin
+/pkg
+/tdlib-build
+/tdlib-db-user
+/tdlib-files-user
+*.exe
+*.log
+*.tmp
+.env
